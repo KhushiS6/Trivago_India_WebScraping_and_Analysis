@@ -2,6 +2,7 @@
 This project involves scraping data from Trivago India to gather information about various accommodations listed on the platform. The dataset includes key details such as:
 
 Name: The name of the accommodation (hotel, resort, etc.)
+
 Rating: Average user rating of the accommodation
 Count of Ratings: Total number of user ratings the accommodation has received
 Type of Accommodation: Type of property (e.g., hotel, resort, guesthouse)
