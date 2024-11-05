@@ -1,14 +1,19 @@
-#### Objective: 
-The goal was to analyze accommodation data from Trivago India, including details like name, rating, price, and location, to find trends and insights.
+### Description:
+This project involves scraping data from Trivago India to gather information about various accommodations listed on the platform. The dataset includes key details such as:
 
-#### Object Creation:
-Create classes for different entities like Hotels, Hostels.
-Each class will have attributes (e.g., name, rating) and methods (e.g., scraping data, analyzing trends).
+Name: The name of the accommodation (hotel, resort, etc.)
+Rating: Average user rating of the accommodation
+Count of Ratings: Total number of user ratings the accommodation has received
+Type of Accommodation: Type of property (e.g., hotel, resort, guesthouse)
+Starting Price: The starting price per night for accommodation
+Location: The location or city where the accommodation is situated
 
-#### Problem Solving:
-Use classes to break the problem into smaller tasks.
-Use inheritance to handle different accommodation types (e.g., hotel, resort) with shared properties.
+### Analysis:
+The project involves analyzing the scraped data to uncover trends and insights, such as:
 
-#### Solution Implementation:
-Run the analysis to find patterns in price, rating, and location.
-Generate reports and insights about accommodation trends.
+Distribution of ratings across different types of accommodations
+Price range analysis based on location and type of accommodation
+Popular locations for different accommodation types
+Correlation between ratings and prices
+Average rating by accommodation type or city
+This analysis helps in understanding pricing patterns, accommodation preferences, and user satisfaction across Trivago listings in India.
