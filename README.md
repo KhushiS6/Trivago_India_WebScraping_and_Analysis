@@ -1,4 +1,4 @@
-### Description:
+#### Description:
 This project involves scraping data from Trivago India to gather information about various accommodations listed on the platform. The dataset includes key details such as:
 
 Name: The name of the accommodation (hotel, resort, etc.)
@@ -8,7 +8,7 @@ Type of Accommodation: Type of property (e.g., hotel, resort, guesthouse)
 Starting Price: The starting price per night for accommodation
 Location: The location or city where the accommodation is situated
 
-### Analysis:
+#### Analysis:
 The project involves analyzing the scraped data to uncover trends and insights, such as:
 
 Distribution of ratings across different types of accommodations
